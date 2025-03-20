@@ -1,4 +1,4 @@
-# Chat Application
+# ChatChit Website
 
 This is a real-time chat application built using the following technologies:
 
