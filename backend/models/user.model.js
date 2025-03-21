@@ -1,6 +1,7 @@
-import mongooes from "mongoose";
+//Người dùng
+import mongoose from "mongoose";
 
-const userSchema = new mongooes.Schema({
+const userSchema = new mongoose.Schema({
     fullName: {
         type: String,
         require: true
