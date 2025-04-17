@@ -2,7 +2,7 @@
 
 This is a real-time chat application built using the following technologies:
 
-- **Frontend**: ReactJS
+
 - **Backend**: Express.js
 - **Database**: MongoDB
 - **Real-time Communication**: Socket.IO
